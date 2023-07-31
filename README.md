@@ -1,4 +1,4 @@
-# Predictive Analysis
+# Data-Science-Capstone-Project
 
 ## Summary of methodologies
 ### 1. Data Collection through API 
