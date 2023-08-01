@@ -1,4 +1,4 @@
-# Data-Science-Capstone-Project
+# IBM-Data-Science-Capstone-Project
 
 ## Summary of methodologies
 ### 1. Data Collection through API 
